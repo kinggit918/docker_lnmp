@@ -2,6 +2,6 @@
 practice for docker about lnmp
 
 
-# git clone https://github.com/kubernetes/kubernetes
-$ cd kubernetes
+# git clone git@github.com:kinggit918/docker_lnmp.git
+$ cd docker_lnmp
 $ make quick-release
