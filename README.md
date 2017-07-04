@@ -3,9 +3,13 @@ To start developing lnmp
 You have a working Docker environment.
 
 $ git clone https://github.com/kinggit918/docker_lnmp.git
+
 $ cd docker_lnmp
+
 $ chmod a+x install.sh
+
 $ ./install.sh 
+
 If you are less impatient, head over to the developer's documentation.
 
 Support
